@@ -21,3 +21,9 @@ Step3:
       
 ```
 
+
+>>    or Follow below method:
+Go to Manage Jenkins > Configure Global Security and select the Enable Security checkbox.
+
+![image](https://user-images.githubusercontent.com/54719289/119489658-cf225100-bd53-11eb-96e7-3354bd28e291.png)
+
